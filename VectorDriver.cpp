@@ -1,3 +1,4 @@
+#include <algorithm> // Used for sorting vectors
 #include "VectorDriver.h"
 
 int main() {
