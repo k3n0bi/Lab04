@@ -12,7 +12,6 @@
 typedef unsigned long ulong;
 
 #include <iostream>
-#include <algorithm> // Used for sorting vectors
 #include <vector>
 
 
