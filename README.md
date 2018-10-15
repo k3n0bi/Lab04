@@ -1,10 +1,10 @@
 # Lab04
 
-# Ben Howe
+ Ben Howe
 
-# COSC 2030
+ COSC 2030
 
-# October 2014
+ October 2014
 
 Answers to questions in the lab.
 
